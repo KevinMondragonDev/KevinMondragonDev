@@ -1,9 +1,9 @@
-
-<img src = "https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width = auto> </h1>
+<h1> Hello Developers < Developers/ >! 
+<img src = "https://i.pinimg.com/originals/86/1a/96/861a961d8a934a516de2e7156bc10803.gif" width = auto> </h1>
 <p align='center'>
 </p>
 
-<h1> Hello Developers < Developers/ >! 
+
 
 <div size='20px'>
 	<h2>Hi! My name is Kevin Mondragon </h2> 
