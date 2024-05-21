@@ -24,7 +24,7 @@
   
 
 
-## Github Stats
+## Contact me
 
 <div align="center">
     <picture align="center">
@@ -32,7 +32,7 @@
     </picture>
 </div>
 
-<h2> Contact me</h2>
+<h2> </h2>
 <p align="center">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://skillicons.dev/icons?i=bots,discord,linkedin" />
