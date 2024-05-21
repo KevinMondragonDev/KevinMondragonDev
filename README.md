@@ -1,4 +1,4 @@
-<h1> Hello Developers < Developers/ >! 
+<h1> Hello Developers < Developers/ >! </h1>
 <img src = "https://i.pinimg.com/originals/86/1a/96/861a961d8a934a516de2e7156bc10803.gif" width = auto> </h1>
 <p align='center'>
 </p>
@@ -6,7 +6,7 @@
 
 
 <div size='20px'>
-	<h2>Hi! My name is Kevin Mondragon </h2> 
+	<h2> My name is Kevin Mondragon </h2> 
 	<p align="center">
 	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=git,angular,github,mysql,php,nodejs,mongo,selenium,python,docker,typescript" />
